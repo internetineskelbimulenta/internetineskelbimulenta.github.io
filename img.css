@@ -1,0 +1,39 @@
+.img1 {
+    background-image: url(./testimg/1.png);
+    /*grid-area: img1;*/
+}
+
+.img2 {
+    background-image: url(./testimg/2.png);
+    /*grid-area: img2;*/
+}
+
+.img3 {
+    background-image: url(./testimg/3.png);
+    /*grid-area: img3;*/
+}
+
+.img4 {
+    background-image: url(./testimg/4.png);
+    /*grid-area: img4;*/
+}
+
+.img5 {
+    background-image: url(./testimg/5.png);
+    /*grid-area: img5;*/
+}
+
+.img6 {
+    background-image: url(./testimg/6.png);
+    /*grid-area: img6;*/
+}
+
+.img7 {
+    background-image: url(./testimg/7.png);
+    /*grid-area: img7;*/
+}
+
+.img8 {
+    background-image: url(./testimg/8.png);
+    /*grid-area: img8;*/
+}
