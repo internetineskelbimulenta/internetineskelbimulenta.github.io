@@ -122,6 +122,9 @@ main {
 .img {
     border: 1px solid black;
     background-size: cover;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
     box-shadow: 1px 1px 5px gray, -1px -1px 5px gray;
     transition: .2s;
     height: 94%;
