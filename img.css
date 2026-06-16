@@ -1,5 +1,5 @@
 .img1 {
-    background-image: url(./testimg/cat\ selfie.jpg);
+    background-image: url(./testimg/1.png);
     /*grid-area: img1;*/
 }
 
@@ -9,7 +9,7 @@
 }
 
 .img3 {
-    background-image: url(./testimg/R.jpeg);
+    background-image: url(./testimg/3.png);
     /*grid-area: img3;*/
 }
 
