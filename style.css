@@ -51,8 +51,11 @@ main {
 }
 
 .titlebar h1 {
-    font-family: sans-serif;
     text-transform: uppercase;
+}
+
+h1 {
+    font-family: "Calibri";
 }
 
 .innermain {
